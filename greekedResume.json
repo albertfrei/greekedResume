@@ -1,0 +1,113 @@
+{
+    "contact": {
+        "name": "Albert Frei",
+        "email": "lorem@impsum.com",
+        "phone": "(385) 265-1593"
+    },
+    "jobs": [
+        {
+            "position": "Nulla Eu",
+            "company": "Etiam",
+            "location": {
+                "city": "Sed",
+                "state": "IN"
+            },
+            "date": {
+                    "beginningMonth": "Fusce",
+                    "beginningYear": "2018",
+                    "endingMonth": "Dapibus",
+                    "endingYear": "2018"
+            },
+            "duties": [
+                "Vestibulum purus metus, eleifend eu lacus nec, cursus placerat nisl.",
+                "Sed elit."
+            ]
+        },
+        {
+            "position": "Vivamus Et Ornare",
+            "company": "Aenean",
+            "location": {
+                "city": "Vel",
+                "state": "FACILISIS"
+            },
+            "date": {
+                    "beginningMonth": "Nullam",
+                    "beginningYear": "2016",
+                    "endingMonth": "Vehicula",
+                    "endingYear": "2018"
+            },
+            "duties": [
+                "Vestibulum varius, purus nec sollicitudin tristique, risus enim.",
+                "Vivamus consectetur accumsan leo eget luctus. Pellentesque.",
+                "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia."
+            ]
+        },
+        {
+            "position": "Phasellus Vel",
+            "company": "Lacus",
+            "location": {
+                "city": "Massa",
+                "state": "EU"
+            },
+            "date": {
+                    "beginningMonth": "Malesuada",
+                    "beginningYear": "2014",
+                    "endingMonth": "Dolorem",
+                    "endingYear": "2016"
+            },
+            "duties": [
+                "Ut ultrices nisi dapibus, tincidunt ex et, hendrerit.",
+                "Nulla eleifend justo vitae maximus tempus. Curabitur ultricies.",
+                "Nulla egestas nisl metus."
+            ]
+        }
+    ],
+    "schools": [
+        {
+            "schoolName": "Suspendisse Volutpat Diam",
+            "schoolLocation": {
+                "city": "Quisque",
+                "state": "UT"
+            },
+            "date": {
+                "beginningYear": "2016",
+                "endingYear": "Nulla"
+            },
+            "major": "Suspendisse Ornare",
+            "details": "Pellentesque quam nulla, sagittis eu."
+        },
+        {
+            "schoolName": "In Feugiat Nunc",
+            "schoolLocation": {
+                "city": "Porro",
+                "state": "EST"
+            },
+            "date": {
+                "beginningYear": "2014",
+                "endingYear": "2016"
+            },
+            "major": "",
+            "details": "Etiam condimentum ante vitae 2016."
+        },
+        {
+            "schoolName": "Donec Vitae",
+            "schoolLocation": {
+                "city": "Sit",
+                "state": "QUI"
+            },
+            "date": {
+                "beginningYear": "2014",
+                "endingYear": "2015"
+            },
+            "major": "",
+            "details": "Fusce laoreet congue blandit. Nullam tortor diam, pharetra vel commodo non, faucibus eu orci. Pellentesque faucibus."
+        }
+    ],
+    "skills": {
+            "languages": [
+                "vELIT#", "AMET++", "Dolor"
+            ]
+    }
+
+}
+
